@@ -28,5 +28,8 @@
   <a href="https://www.instagram.com/thyerrir/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
     </div>
 <br>
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
+
   
   
