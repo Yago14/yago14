@@ -1,6 +1,6 @@
 # Seja bem-vindo(a)! ao meu prfil do GitHub.
 
-[
+
  <div>
    <a href="https://github.com/Yago14">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago14&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
